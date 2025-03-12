@@ -1,0 +1,5 @@
+timestamp,server_id,cpu_usage,memory_usage,network_activity,anomaly
+2025-01-01 00:00:00,1,75,60,120,0
+2025-01-01 01:00:00,1,80,70,130,1
+...
+
