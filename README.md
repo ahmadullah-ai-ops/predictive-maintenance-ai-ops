@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Predictive Maintenance Using AI for IT Systems
 
 ## Project Overview
@@ -65,3 +66,7 @@ Predictive maintenance involves forecasting potential failures in systems before
 ## License
 [MIT](LICENSE)
 
+=======
+# predictive-maintenance-ai-ops
+A demo project for AI-driven predictive maintenance in IT systems using machine learning models to forecast failures.
+>>>>>>> f67bec753587493c580de410e2a817beef4e9f95
